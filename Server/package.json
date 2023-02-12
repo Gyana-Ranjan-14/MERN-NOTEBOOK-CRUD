@@ -20,11 +20,11 @@
         "mongoose": "^6.4.0"
     },
     "devDependencies": {
-        "nodemon": "^2.0.18",
-        "got": ">=11.8.5"
+        "nodemon": "^2.0.20",
+        "got": ">=12.5.3"
     },
     "dependencies": {
-      "got": ">=11.8.5"
+      "got": ">=12.5.3"
     },
     "engines": {
         "node": "12.11.1"
